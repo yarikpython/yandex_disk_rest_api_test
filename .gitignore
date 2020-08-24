@@ -1,0 +1,16 @@
+# environment variables
+.env
+
+# logs
+*.log
+
+# cache
+.py[co]
+.pytest_cache/
+__pycache__/
+
+# virtualenv
+venv/
+
+# packaging
+.idea/
